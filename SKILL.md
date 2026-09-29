@@ -6,7 +6,7 @@ display_name_en: Three-Sentence Summary
 description: This skill should be used when the user wants long content compressed into an extremely short summary — including phrases like "三句话总结", "一句话说清", "太长不看", "简单说说", "结论是什么", "TL;DR", "sum it up in three sentences". It compresses any article, meeting, or transcript into exactly three sentences.
 description_en: This skill should be used when the user wants long content compressed into an extremely short summary — including phrases like "summarize in three sentences", "give me the bottom line", "too long didn't read", "TL;DR", "what's the conclusion", or any request to condense long content drastically. It compresses any article, meeting, or transcript into exactly three sentences.
 description_zh: 当用户要把长内容压缩成极短摘要时使用，包括「三句话总结」「一句话说清」「太长不看」「简单说说」「结论是什么」等表达。本技能把任何长文、长会、长视频压成 3 句，每句不超过 30 字。
-version: "1.0.0"
+version: "1.0.1"
 category: 知识与学习
 agent_created: true
 ---
